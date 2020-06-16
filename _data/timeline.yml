@@ -17,45 +17,57 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: UCLA Physics and Astronomy
+  # title-url: https://example.com/
+  date: Sep 2017 - Mar 2020
+  subtitle: Undergraduate Researcher
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Python
+    - tag: LaTeX
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: Fulcrum Labs
+  # title-url: https://example.com/
+  date: Oct 2018 - Dec 2019
+  subtitle: Data Science Intern
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: Python
+    - tag: R
+    - tag: SQL
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: UCLA
+  # title-url: https://example.com/
+  date: Graduated Sept 2018
+  subtitle: B.S. Physics
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: UCLA Meteorite Lab
+  # title-url: https://example.com/
+  date: May 2017 - Oct 2018
+  subtitle: Lab Assistant
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Python
+    - tag: Excel
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+# - title: Super University
+#   title-url: https://example.com/
+#   date: 2017 - 2019
+#   subtitle: M.Sc. Computer Science
+#   timeline-side: left
+
+- title: NASA Jet Propulsion Laboratory
+  title-url: https://www.jpl.nasa.gov/
+  date: Jun 2016 - Aug 2016
+  subtitle: JPL Undergraduate Intern
+  tags:
+    - tag: Python
+    - tag: LaTeX
+  timeline-side: right
+
+- title: NASA Jet Propulsion Laboratory
+  title-url: https://www.jpl.nasa.gov/
+  date: Jun 2015 - Dec 2015
+  subtitle: JPL Undergraduate Scholarship
   timeline-side: left

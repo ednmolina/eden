@@ -18,7 +18,7 @@
 #   timeline-side: right
 
 - title: UCLA Physics and Astronomy
-  # title-url: https://example.com/
+  title-url: https://www.pa.ucla.edu
   date: Sep 2017 - Mar 2020
   subtitle: Undergraduate Researcher
   tags:
@@ -27,7 +27,7 @@
   timeline-side: right
 
 - title: Fulcrum Labs
-  # title-url: https://example.com/
+  title-url: https://www.fulcrumlabs.ai
   date: Oct 2018 - Dec 2019
   subtitle: Data Science Intern
   tags:
@@ -37,13 +37,13 @@
   timeline-side: right
 
 - title: UCLA
-  # title-url: https://example.com/
+  title-url: https://www.ucla.edu
   date: Graduated Sept 2018
   subtitle: B.S. Physics
   timeline-side: left
 
 - title: UCLA Meteorite Lab
-  # title-url: https://example.com/
+  title-url: https://meteorites.ucla.edu
   date: May 2017 - Oct 2018
   subtitle: Lab Assistant
   tags:
